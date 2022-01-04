@@ -4,22 +4,22 @@ body{
     padding: 0;
 }
 h1{
-    font-size: 50px;
+    font-size: 45px;
 }
 h1 span{
     color: orange;
 }
 h2{
-    font-size: 40px;
+    font-size: 35px;
 }
 h3{
-    font-size: 25px;
+    font-size: 22px;
 }
 .dev-hints{
     color: orange;
 }
 p{
-    font-size: 20px;
+    font-size: 18px;
 }
 .link-button{
     text-decoration: none;
