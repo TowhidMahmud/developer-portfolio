@@ -55,12 +55,13 @@ p{
     background-position: left;
 }
 .experience-item{
-    width:35%;
-    margin-left: 4%;
-    Margin-right: 6%;
+    width:40%;
+    margin-left: 5%;
+    Margin-right: 5%;
     box-shadow: 10px 10px 40px grey;
     padding-left: 20px;
     padding-right: 20px;
+    border-radius: 10px;
 }
 #full-stack-developer{
     border-left: 7px solid ;
